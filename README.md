@@ -19,9 +19,4 @@
 2. Откройте `TicTacToe.sln` в Visual Studio
 3. Скомпилируйте и запустите проект
 
-## Скриншоты
-![Игровое поле 3x3](screenshots/gameplay.png)
-![Победная комбинация](screenshots/victory.png)
-
----
 *Проект разработан в рамках изучения Windows Forms и работы с графикой.*
